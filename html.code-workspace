@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../html"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/チーズアカデミー仕様書一式"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "G's ACADEMY"
+	}
+}
